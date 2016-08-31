@@ -1,0 +1,22 @@
+.media-body > .user-name {
+    padding-right: 4px;
+}
+
+.media-body > .user-screen_name {
+    color: darkgray;
+}
+
+.media-body > .media-img {
+    white-space: normal;
+}
+
+.media-body > .media-img {
+    width: 50%;
+    height: auto;
+    display: block;
+}
+
+.media-body > .icon-retweet {
+    font-size: x-small;
+    color: darkgray;
+}
