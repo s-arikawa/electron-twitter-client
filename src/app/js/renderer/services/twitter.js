@@ -1,8 +1,8 @@
 const Twit = require('twit');
 
 module.exports = new Twit({
-    consumer_key: 'REDACTED_TWITTER_CONSUMER_KEY',
-    consumer_secret: 'REDACTED_TWITTER_CONSUMER_SECRET',
-    access_token: 'REDACTED_TWITTER_ACCESS_TOKEN',
-    access_token_secret: 'REDACTED_TWITTER_ACCESS_TOKEN_SECRET'
+  consumer_key: 'CONSUMER_KEY',
+  consumer_secret: 'CONSUMER_SECRET',
+  access_token: 'ACCESS_TOKEN',
+  access_token_secret: 'ACCESS_TOKEN_SECRET'
 });
