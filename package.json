@@ -1,9 +1,12 @@
 {
-  "private":true,
+  "private": true,
   "devDependencies": {
-    "electron-prebuilt": "^1.3.4"
+    "docpress": "^0.6.13",
+    "electron-prebuilt": "^1.3.4",
+    "markdown-it-emoji": "^1.2.0"
   },
   "scripts": {
     "start": "electron src"
-  }
+  },
+  "dependencies": {}
 }

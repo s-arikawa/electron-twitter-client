@@ -1,12 +1,11 @@
-(() =>{
+(() => {
     require('babel-register')(
         {plugins: 'transform-react-jsx'}
     );
     const React = require('react');
     const ReactDOM = require('react-dom');
-    const MainContent = require('./components/main');
+    const FormContent = require('./components/form');
 
-    //id: rootにMainContentクラスを入れる
     const root = document.getElementById('root');
-    ReactDOM.render(React.createElement(MainContent), root);
+    ReactDOM.render(React.createElement(FormContent), root);
 })();
