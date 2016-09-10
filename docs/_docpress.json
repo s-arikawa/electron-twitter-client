@@ -94,6 +94,7 @@
   "sources": {
     "README.md": "index.html",
     "docs/docpress-configuration.md": "docpress-configuration.html",
-    "docs/assets/custom.css": "assets/custom.css"
+    "docs/assets/custom.css": "assets/custom.css",
+    "docs/assets/docpress-style.css": "assets/docpress-style.css"
   }
 }
