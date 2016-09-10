@@ -1,6 +1,6 @@
 {
   "css": [
-    "http://ricostacruz.com/docpress-rsc/style.css",
+    "docs/assets/docpress-style.css",
     "docs/assets/custom.css"
   ],
   "markdown": {
